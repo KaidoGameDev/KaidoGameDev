@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is João and I'm a Engineering and Programming student, from Brazil</h2>
+<h1 align="left">Olá, seja Bem Vindo, eu sou o João (Kaidou), Estudante de Engenharia Elétrica e Dev Iniciante. :brazil: </h1>
+<h2 align="left">About me:</h2> 
+<p>Estudante de engenharia elêtrica apaixonado por tecnologia, gameDev nas horas vagas, recentemente entrando na bolha Dev e IndieHacker, decidido a aprimorar minhas habilidades e entrar no mercado de trabalho como programador</p>
 
 ###
 
