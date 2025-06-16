@@ -1,12 +1,14 @@
-<h1 align="left">Olá, seja Bem Vindo, eu sou o João (Kaidou), Estudante de Engenharia Elétrica e Dev Iniciante. :brazil: </h1>
-<h2 align="left">About me:</h2> 
-<p>Estudante de engenharia elêtrica apaixonado por tecnologia, gameDev nas horas vagas, recentemente entrando na bolha Dev e IndieHacker, decidido a aprimorar minhas habilidades e entrar no mercado de trabalho como programador</p>
+<h2 align="left">🎮Olá, prazer, meu nome é João Ricardo (Kaidou), sou Estudante de Engenharia Elétrica e Dev Iniciante 🇧🇷 🎮</h2>
+<h2 align="left">🔔About me:</h2> 
+<p>📚Estudante de engenharia elêtrica apaixonado por tecnologia, gameDev nas horas vagas, recentemente entrando na bolha WebDev e IndieHacker🌐</p>
+<p>💀Atualmente em Estudos interminaveis📜</p>
+<p>🧿Kaidou significa caminho, Simboliza o caminho que trilhei para chegar até aqui e o caminho que ainda terei de percorrer até chegar aos meus objetivos🧿</p>
 
 ###
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/channel/UC3b-XsIMFAcDTk1W71zq7rg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
@@ -20,7 +22,7 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE3OGJ0bW1maTluanI1aDR5ZzdmYTdmY2R1NW9ybXcyMmpqMzUyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
+<img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE3OGJ0bW1maTluanI1aDR5ZzdmYTdmY2R1NW9ybXcyMmpqMzUyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 
 ###
 
