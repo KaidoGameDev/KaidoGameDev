@@ -4,10 +4,6 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE3OGJ0bW1maTluanI1aDR5ZzdmYTdmY2R1NW9ybXcyMmpqMzUyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.youtube.com/channel/UC3b-XsIMFAcDTk1W71zq7rg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -17,6 +13,12 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE3OGJ0bW1maTluanI1aDR5ZzdmYTdmY2R1NW9ybXcyMmpqMzUyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 
 ###
 
