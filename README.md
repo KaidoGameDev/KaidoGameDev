@@ -6,27 +6,15 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <a href="https://www.youtube.com/channel/UC3b-XsIMFAcDTk1W71zq7rg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=kaidogamedev@gmail.com&logo=gmail&label=&color=D14836&logoColor=D14836&labelColor=fff&style=for-the-badge" height="35" alt="gmail logo"  />
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-ricardo-almeida-11150517a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KaidoGameDev.KaidoGameDev&left_color=darkslategrey&right_color=crimson&left_text=Visiting%20Souls"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img align="right" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE3OGJ0bW1maTluanI1aDR5ZzdmYTdmY2R1NW9ybXcyMmpqMzUyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
@@ -54,8 +42,16 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KaidoGameDev.KaidoGameDev&left_color=darkslategrey&right_color=crimson&left_text=Visiting%20Souls"  />
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.youtube.com/channel/UC3b-XsIMFAcDTk1W71zq7rg" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=kaidogamedev@gmail.com&logo=gmail&label=&color=D14836&logoColor=D14836&labelColor=fff&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-ricardo-almeida-11150517a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -63,7 +59,13 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaidoGameDev&theme=redical&area=true&radius=16&hide_border=false&hide_title=false" height="" alt="activity-graph graph"  />
+  <img height="500" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE3OGJ0bW1maTluanI1aDR5ZzdmYTdmY2R1NW9ybXcyMmpqMzUyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/KaidoGameDev/KaidoGameDev/output/snake.svg" alt="Snake animation" />
 
 ###
