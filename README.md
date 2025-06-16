@@ -1,8 +1,8 @@
-<h2 align="left">🎮Olá, prazer, meu nome é João Ricardo (Kaidou), sou Estudante de Engenharia Elétrica e Dev Iniciante 🇧🇷 🎮</h2>
+<h2 align="left">🎮João Ricardo (Kaidou), Estudante de Engenharia Elétrica e Dev Iniciante 🇧🇷 🎮</h2>
 <h2 align="left">🔔About me:</h2> 
 <p>📚Estudante de engenharia elêtrica apaixonado por tecnologia, gameDev nas horas vagas, recentemente entrando na bolha WebDev e IndieHacker🌐</p>
-<p>💀Atualmente em Estudos interminaveis📜</p>
-<p>🧿Kaidou significa caminho, Simboliza o caminho que trilhei para chegar até aqui e o caminho que ainda terei de percorrer até chegar aos meus objetivos🧿</p>
+<p>📜Atualmente em Estudos interminaveis📜</p>
+<p>🧿Kaidou significa caminho, não tem um simbolismo em especifico mas eu vejo como os caminhos da vida🧿</p>
 
 ###
 
