@@ -1,10 +1,10 @@
-<br clear="both">
-
-<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjVqOWRyaXd3NXJrZ204dDF1MG80ZHNhd3NlNjJoZ214b2xhOGt2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif"  />
+<h2 align="left">Hi 👋! My name is João and I'm a Engineering and Programming student, from Brazil</h2>
 
 ###
 
-<h2 align="left">Hi 👋! My name is João and I'm a Engineering and Programming student, from Brazil</h2>
+<br clear="both">
+
+<img align="right" height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE3OGJ0bW1maTluanI1aDR5ZzdmYTdmY2R1NW9ybXcyMmpqMzUyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
 
 ###
 
@@ -53,6 +53,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaidoGameDev&theme=redical&area=true&radius=16&hide_border=false&hide_title=false" height="" alt="activity-graph graph"  />
